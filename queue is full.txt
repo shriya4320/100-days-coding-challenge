@@ -1,0 +1,10 @@
+// queue if full //
+
+#include<stdio.h>
+void queue(X)
+{
+    if ((r=1)%N= Front)
+    {
+        printf("\n\n Queue is full")
+    }
+}
